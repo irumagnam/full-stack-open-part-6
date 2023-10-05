@@ -1,0 +1,99 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "important": false
+    },
+    {
+      "id": 2,
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "content": "React is very difficult",
+      "important": false,
+      "id": 4
+    },
+    {
+      "content": "Java is not that hard",
+      "important": true,
+      "id": 5
+    },
+    {
+      "content": "test",
+      "important": true,
+      "id": 6
+    },
+    {
+      "content": "asdfasfsadfdsf",
+      "important": false,
+      "id": 7
+    },
+    {
+      "content": "tesadfasdfd",
+      "important": false,
+      "id": 8
+    },
+    {
+      "content": "sdfsdfdsfsdfd",
+      "important": false,
+      "id": 9
+    },
+    {
+      "content": "875ttgfbv ",
+      "important": false,
+      "id": 10
+    },
+    {
+      "content": "asdf3245647",
+      "important": true,
+      "id": 11
+    },
+    {
+      "content": "jhgvf8",
+      "important": false,
+      "id": 12
+    },
+    {
+      "content": "525536537",
+      "important": true,
+      "id": 13
+    },
+    {
+      "content": "11111111111111",
+      "important": false,
+      "id": 14
+    },
+    {
+      "content": "222222222222222",
+      "important": false,
+      "id": 15
+    },
+    {
+      "content": "33333333333333333",
+      "important": true,
+      "id": 16
+    },
+    {
+      "content": "4444444444444",
+      "important": false,
+      "id": 17
+    },
+    {
+      "content": "5555555555555555",
+      "important": false,
+      "id": 18
+    },
+    {
+      "content": "66666666666666",
+      "important": false,
+      "id": 19
+    }
+  ]
+}
